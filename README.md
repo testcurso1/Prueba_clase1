@@ -1,4 +1,4 @@
 # Prueba
-Este es un repositorio de prueba
+Este es un repositorio de prueba, con una imagen de una galaxia vista por el JWST :) 
 
-![Kul imagen](jwst.png)
+![imagen](jwst.png)
